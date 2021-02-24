@@ -1,24 +1,15 @@
-# vuejs-javascript
+# Vuejs Javascript
+vuejs 자바스크립트 사용 스타트업 프로젝트 \
+vue-router 와 slot으로 간단한 레이아웃 적용
 
-## Project setup
-```
-yarn install
-```
+# 설치
+```bash
+# 의존성 설치
+$ yarn install
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+# 개발서버
+$ yarn serve
 
-### Compiles and minifies for production
+# 빌드
+$ yarn build
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
